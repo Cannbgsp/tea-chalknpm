@@ -1,6 +1,23 @@
 {
-  "dependencies": {
-    "chalk": "^5.3.0"
-  }
+  "name": "tea-chalknpm",
+  "version": "1.0.0",
+  "description": "tea test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cannbgsp/tea-chalknpm.git"
+  },
+  "keywords": [
+    "estea",
+    "enk"
+  ],
+  "author": "cann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cannbgsp/tea-chalknpm/issues"
+  },
+  "homepage": "https://github.com/Cannbgsp/tea-chalknpm#readme"
 }
-
